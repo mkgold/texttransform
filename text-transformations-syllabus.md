@@ -4,7 +4,7 @@
 **Room 5383**  
 **[Graduate Center, CUNY](http://www.gc.cuny.edu)**   
 
-**[Dr. Matthew K. Gold](http://mkgold.net)**  
+[Dr. Matthew K. Gold](http://mkgold.net)  
 mgold@gc.cuny.edu   
 Office Hours: 4108.01, W 4:30pm-6pm and by appointment (contact Kristin Leitterman kristinleitterman@gmail.com for appointments)
 
