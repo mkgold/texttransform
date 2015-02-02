@@ -12,6 +12,9 @@ Course Blog: http://cuny.is/texttransform
 Course Hashtag: [#texttransform](https://twitter.com/search?f=realtime&q=texttransform&src=typd)  
 Zotero Group: https://www.zotero.org/groups/text_transformations
 
+--  
+
+
 ## Course Description:
 
 As an increasing number of texts are digitized and made available for quantitative analysis of various kinds, algorithmic computation can be used to reveal patterns of affiliation and difference across them. Franco Moretti has argued that such opportunities have resulted in “a drastic loss of ‘measure’ . . . books are so human-sized; now that right size is gone.” What is the proper unit of the text in the digital age, if not the book? How do we understand texts that are “massively addressable at different levels of scale,” as Michael Witmore has suggested? And how do new levels of scale and “addressability” alter our understanding of literary history, not to mention our everyday practices of reading? 
