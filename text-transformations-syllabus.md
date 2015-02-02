@@ -251,7 +251,7 @@ lisa rhody
 
 
 
-**Other Related Courses This Semester:**
+**Other Related Courses This Semester:**  
 Ted Underwood  
 Ben Schmidt  
 Andrew Gladstone  
