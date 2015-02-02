@@ -230,7 +230,7 @@ I consulted the following syllabi while creating this one; thank you to their au
 
 --
 
-**List of related Bloggers/Tweeters To Follow (very incomplete, more to come!!!)**
+**List of related Bloggers/Tweeters To Follow (very incomplete, more to come!!!)**  
 matthew jockers  
 david mimno  
 matthew kirschenbaum  
