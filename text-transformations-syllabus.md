@@ -1,12 +1,12 @@
-## ENGL 87400
-## Matthew K. Gold
-## “Text Transformations”
-## Mondays 4:15pm-6:15pm, Room 5383
+## ENGL 87400  
+## Matthew K. Gold  
+## “Text Transformations”  
+## Mondays 4:15pm-6:15pm, Room 5383  
 ## Office Hours: 4108.01, W 4:30pm-6pm and by appointment (contact Kristin Leitterman kristinleitterman@gmail.com for appointments)
 
-Course Group: http://commons.gc.cuny.edu/groups/text-transformations/
-Course Blog: http://cuny.is/texttransform
-Course Hashtag: #texttransform
+Course Group: http://commons.gc.cuny.edu/groups/text-transformations/  
+Course Blog: http://cuny.is/texttransform  
+Course Hashtag: #texttransform  
 
 ## Course Description:
 
@@ -15,27 +15,27 @@ As an increasing number of texts are digitized and made available for quantitati
 In this course, we will consider how “macroscopic” approaches to text analysis change our existing notions of textuality, particularly as they revise 1990s discussions of hypertext within the field of textual studies. The course will include a mix of theoretical investigation and hands-on experimentation; as we explore quantitative approaches to literary analysis, we will seek to oscillate between close and distant reading practices. We will also look at how digital textuality is being expressed through various media forms and consider how recent interactive scholarly texts are changing publishing workflows in and outside of the academy. Readings will include works and projects by Wendy Chun, Kathleen Fitzpatrick, David Greetham, Matthew Jockers, Matthew Kirschenbaum, Jerome McGann, Tara McPherson, Franco Moretti, Steve Ramsay, Lisa Rhody, Mark Sample, Dennis Tenen, Ted Underwood, Michael Witmore, among others. Text analysis and visualization tools to be used will include DH Box, D3, Gephi, MALLET, NLTK, Python, R, Voyant, among others. Workshop attendance will be required. 
 
 
-*Tools/Software*
-Regex
-NLTK
-Python
-MALLET
-Unix/Linux
-R
-XLST
-TEI
-Git
-Gephi
-D3
-TextWrangler
-BBEdit
-Excel
-OpenRefine
-Voyant Tools
-R Studio
-DH Box
+**Tools/Software**  
+Regex  
+NLTK  
+Python  
+MALLET  
+Unix/Linux  
+R  
+XLST  
+TEI  
+Git  
+Gephi  
+D3  
+TextWrangler  
+BBEdit  
+Excel  
+OpenRefine  
+Voyant Tools  
+R Studio  
+DH Box  
 
-*Resources*
+**Resources**
 The Programming Historian http://programminghistorian.org/
 
 *Workshops*
@@ -51,37 +51,36 @@ http://gcdi.commons.gc.cuny.edu/events/
 
 ## Course Schedule
 
-*Mon Feb 2*
-*1 - Introductions*
+**Mon Feb 2**  
+> **Introductions**
 
 
-*Mon Feb 9*
-*2 - Provocations*
-- Franco Moretti - "The Slaughterhouse of Literature"
-- Michael Witmore - "Text: A Massively Addressable Object"
-- Roland Barthes, "The Death of the Author" - http://aaaaarg.org/upload/roland-barthes-image-music-text-1.pdf
-- Michel Foucault, "What is An Author?" - http://aaaaarg.org/upload/michel-foucault-what-is-an-author-19691977.pdf
-- Jacques Derrida, "The Book to Come" (from Paper Machine)
-- Matthew G. Kirschenbaum, "The .txtual Condition" 
-- Steven J. DeRose, David G. Durand, Elli Mylonas, Allen H. Rehear, "What is Text, Really?" 
-http://www.hki.uni-koeln.de/sites/all/files/courses/3226/Renear_ea-1997.pdf
+**Mon Feb 9**  
+**Provocations**
+> - Franco Moretti - "The Slaughterhouse of Literature"
+> - Michael Witmore - "Text: A Massively Addressable Object"
+> - Roland Barthes, "The Death of the Author" http://aaaaarg.org/upload/roland-barthes-image-music-text-1.pdf
+> - Michel Foucault, "What is An Author?" http://aaaaarg.org/upload/michel-foucault-what-is-an-author-19691977.pdf
+> - Jacques Derrida, "The Book to Come" (from Paper Machine)
+> - Matthew G. Kirschenbaum, "The .txtual Condition" 
+> - Steven J. DeRose, David G. Durand, Elli Mylonas, Allen H. Rehear, "What is Text, Really?" http://www.hki.uni-koeln.de/sites/all/files/courses/3226/Renear_ea-1997.pdf
 
-Lab: 
-Understanding Regular Expressions - http://programminghistorian.org/lessons/understanding-regular-expressions
+> Lab:  
+> Understanding Regular Expressions - http://programminghistorian.org/lessons/understanding-regular-expressions
 
 
-*Mon Feb 16*
-*3 - Approaches to Textual Studies (Guest: David Greetham [unconfirmed])*
-- WW Gregg, The Rationale of Copy-Text - http://etext.virginia.edu/etcbin/toccer-sb?id=sibv003&images=bsuva/sb/images&data=/texts/english/bibliog/SB&tag=public&part=2&division=div
-- Fredson Bowers - Some Principles for Scholarly Editions of Nineteenth-Century American Authors - http://etext.virginia.edu/etcbin/toccer-sb?id=sibv017&images=bsuva/sb/images&data=/texts/english/bibliog/SB&tag=public&part=17&division=div
-- G. Thomas Tanselle, —, A Rationale of Textual Criticism (1989) (selections)
-- D. F. McKenzie, Bibliography and the Sociology of Texts (selections)
-- D. C. Greetham, Textual Scholarship. An Introduction (selections)
-- Jerome McGann, A Critique of Modern Textual Criticism (selections)
-- __, The Textual Condition_ - "The Socialization of Texts"
-- Rob Pope, "Prologue," from Textual Intervention
+**Mon Feb 16**  
+** Approaches to Textual Studies (Guest: David Greetham [unconfirmed])**  
+> - WW Gregg, The Rationale of Copy-Text - http://etext.virginia.edu/etcbin/toccer-sb?id=sibv003&images=bsuva/sb/images&data=/texts/english/bibliog/SB&tag=public&part=2&division=div
+> - Fredson Bowers - Some Principles for Scholarly Editions of Nineteenth-Century American Authors - http://etext.virginia.edu/etcbin/toccer-sb?id=sibv017&images=bsuva/sb/images&data=/texts/english/bibliog/SB&tag=public&part=17&division=div
+> - G. Thomas Tanselle, —, A Rationale of Textual Criticism (1989) (selections)
+> - D. F. McKenzie, Bibliography and the Sociology of Texts (selections)
+> - D. C. Greetham, Textual Scholarship. An Introduction (selections)
+> - Jerome McGann, A Critique of Modern Textual Criticism (selections)
+> - __, The Textual Condition_ - "The Socialization of Texts"
+> - Rob Pope, "Prologue," from Textual Intervention
 
-Lab: Dennis Tenen and Grant Wythoff, "Sustainable Authorship in Plain Text using Pandoc and Markdown" - http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown
+> Lab: Dennis Tenen and Grant Wythoff, "Sustainable Authorship in Plain Text using Pandoc and Markdown" http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown
 
 
 *Mon Feb 23*
