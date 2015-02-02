@@ -1,4 +1,5 @@
 ## ENGL 87400: Text Transformations
+**Spring 2015**  
 **Mondays 4:15pm-6:15pm**  
 **Room 5383**  
 **[Ph.D. Program in English](http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/English)**  
