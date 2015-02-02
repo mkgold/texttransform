@@ -4,7 +4,7 @@
 **[Graduate Center, CUNY](http://www.gc.cuny.edu)**   
 
 **[Dr. Matthew K. Gold](http://mkgold.net)**  
-http://mkgold.net    
+mgold@gc.cuny.edu   
 Office Hours: 4108.01, W 4:30pm-6pm and by appointment (contact Kristin Leitterman kristinleitterman@gmail.com for appointments)
 
 Course Group: http://commons.gc.cuny.edu/groups/text-transformations/  
