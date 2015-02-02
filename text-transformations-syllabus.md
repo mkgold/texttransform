@@ -1,16 +1,15 @@
+## Text Transformations
 **ENGL 87400**  
-**“Text Transformations”**  
 **Mondays 4:15pm-6:15pm, Room 5383**  
 **[Graduate Center, CUNY](http://www.gc.cuny.edu)**   
 
-**Dr. Matthew K. Gold**  
-mgold@gc.cuny.edu  
+**[Dr. Matthew K. Gold](http://mkgold.net)**  
 http://mkgold.net**    
 Office Hours: 4108.01, W 4:30pm-6pm and by appointment (contact Kristin Leitterman kristinleitterman@gmail.com for appointments)
 
 Course Group: http://commons.gc.cuny.edu/groups/text-transformations/  
 Course Blog: http://cuny.is/texttransform  
-Course Hashtag: #texttransform  
+Course Hashtag: [#texttransform](https://twitter.com/search?f=realtime&q=texttransform&src=typd)  
 
 ## Course Description:
 
