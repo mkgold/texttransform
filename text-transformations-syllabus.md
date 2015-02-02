@@ -172,12 +172,12 @@ http://gcdi.commons.gc.cuny.edu/events/
 
 **Mon Apr 20**  
 **Electronic Literature, Media Archaeology, and the Textual Apparatus (Guest: [Steve Jones](http://stevenejones.org/) )**
-> - Agrippa Files Website - http://agrippa.english.ucsb.edu
+> - Agrippa Files Website http://agrippa.english.ucsb.edu
 > - Matthew G. Kirschenbaum, with Doug Reside and Alan Liu, “No Round Trip: Two New Primary Sources for Agrippa.” http://agrippa.english.ucsb.edu/kirschenbaum-matthew-g-with-doug-reside-and-alan-liu-no-round-trip-two-new-primary-sources-for-agrippa 
 > - James J. Hodge, “Bibliographic Description of Agrippa (a book of the dead).” http://agrippa.english.ucsb.edu/hodge-james-bibliographic-description-of-agrippa-commissioned-for-the-agrippa-files 
-> - Frederich Kittler, Gramophone, Film, Typewriter (selections)
-> - Jussi Parikka, What is Media Archaeology?
-> - Lisa Gitelman, "Near Print and Beyond Paper: Knowing by *.pdf" from Paper Knowledge
+> - Frederich Kittler, _Gramophone, Film, Typewriter_ (selections)
+> - Jussi Parikka, _What is Media Archaeology?_
+> - Lisa Gitelman, "Near Print and Beyond Paper: Knowing by *.pdf" from _Paper Knowledge_
 
 > Lab: Show and tell: bring in, and be ready to describe, an old piece of equipment or storage media containing information relevant to your work
 
@@ -185,9 +185,9 @@ http://gcdi.commons.gc.cuny.edu/events/
 **Mon Apr 27**  
 **12 - Perspective and Dimensionality**  
 > - Edwin A. Abbot, _Flatland_
-> - Jerome McGann, "Marking Texts of Many Dimensions" - http://www.digitalhumanities.org/companion/ 
-> - David Hoover, "Quantitative Analysis and Literary Studies" - http://www.digitalhumanities.org/companionDLS/ 
-> - Sarah Allison, Ryan Heuser, Matthew Jockers, Franco Moretti, Michael Witmore, "Quantitative Formalism: an Experiment" - http://litlab.stanford.edu/?page_id=255
+> - Jerome McGann, "Marking Texts of Many Dimensions" http://www.digitalhumanities.org/companion/ 
+> - David Hoover, "Quantitative Analysis and Literary Studies" http://www.digitalhumanities.org/companionDLS/ 
+> - Sarah Allison, Ryan Heuser, Matthew Jockers, Franco Moretti, Michael Witmore, "Quantitative Formalism: an Experiment" http://litlab.stanford.edu/?page_id=255
 > - Johanna Drucker, "Humanistic Theory and Digital Scholarship" http://dhdebates.gc.cuny.edu/debates/text/34 
 
 > Lab: TBA
