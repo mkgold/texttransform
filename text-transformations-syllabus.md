@@ -166,7 +166,7 @@ http://gcdi.commons.gc.cuny.edu/events/
 
 
 **Mon Apr 20**  
-**Electronic Literature, Media Archaeology, and the Textual Apparatus (Guest: Steve Jones [unconfirmed])**
+**Electronic Literature, Media Archaeology, and the Textual Apparatus (Guest: [Steve Jones](http://stevenejones.org/) )**
 > - Agrippa Files Website - http://agrippa.english.ucsb.edu
 > - Matthew G. Kirschenbaum, with Doug Reside and Alan Liu, “No Round Trip: Two New Primary Sources for Agrippa.” - http://agrippa.english.ucsb.edu/kirschenbaum-matthew-g-with-doug-reside-and-alan-liu-no-round-trip-two-new-primary-sources-for-agrippa 
 > - James J. Hodge, “Bibliographic Description of Agrippa (a book of the dead).” - http://agrippa.english.ucsb.edu/hodge-james-bibliographic-description-of-agrippa-commissioned-for-the-agrippa-files 
