@@ -43,6 +43,8 @@ OpenRefine
 Voyant Tools  
 R Studio  
 DH Box  
+Markdown  
+Pandoc  
 
 **Resources**  
 The Programming Historian http://programminghistorian.org/
