@@ -221,15 +221,16 @@ http://gcdi.commons.gc.cuny.edu/events/
 
 **Syllabus Acknowledgements:**  
 I consulted the following syllabi while creating this one; thank you to their authors for making them public:  
-> Jonathan Gross, Depaul University - 471: Bibliography and Literary Research - http://condor.depaul.edu/jgross/english471.pdf
-> Alan Liu - Digital Humanities: Introduction to the Field - http://eng236introdh2013f.pbworks.com/w/page/67396717/Schedule
-> Textual Studies Syllabus - http://www.docstoc.com/docs/126763288/Textual-Studies-Syllabus
-> Ben Schmidt - http://benschmidt.org/HDA15/?page_id=10
+> Jonathan Gross, Depaul University, 471: Bibliography and Literary Research - http://condor.depaul.edu/jgross/english471.pdf  
+> Alan Liu - Digital Humanities: Introduction to the Field http://eng236introdh2013f.pbworks.com/w/page/67396717/Schedule  
+> Textual Studies Syllabus http://www.docstoc.com/docs/126763288/Textual-Studies-Syllabus  
+> Ben Schmidt http://benschmidt.org/HDA15/?page_id=10  
+> Ted Underwood “Distant-Reading the Long Nineteenth Century" http://tedunderwood.com/2015/01/16/syllabus-for-a-graduate-seminar/
 
 
 --
 
-**List of Bloggers/Tweeters To Follow (very incomplete!!!)**
+**List of related Bloggers/Tweeters To Follow (very incomplete, more to come!!!)**
 matthew jockers  
 david mimno  
 matthew kirschenbaum  
