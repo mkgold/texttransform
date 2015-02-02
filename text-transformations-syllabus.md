@@ -237,7 +237,8 @@ matthew kirschenbaum
 bethany nowviskie  
 steve ramsay  
 dennis tenen  
-matt wilkens  
+matt wilkens 
+lisa rhody  
 ted underwood  
 matt jockers  
 andrew piper  
@@ -247,7 +248,7 @@ kari kraus
 richard jean so  
 sarah werner  
 whitney trettien  
-lisa rhody  
+ 
 
 
 
