@@ -1,9 +1,9 @@
 **ENGL 87400**  
 **“Text Transformations”**  
 **Mondays 4:15pm-6:15pm, Room 5383**  
-**Graduate Center, CUNY http://www.gc.cuny.edu**  
+**[Graduate Center, CUNY](http://www.gc.cuny.edu)**   
 
-**Matthew K. Gold**  
+**Dr. Matthew K. Gold**  
 mgold@gc.cuny.edu  
 http://mkgold.net**    
 Office Hours: 4108.01, W 4:30pm-6pm and by appointment (contact Kristin Leitterman kristinleitterman@gmail.com for appointments)
