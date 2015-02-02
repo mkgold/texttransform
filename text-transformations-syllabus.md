@@ -1,6 +1,7 @@
 ## ENGL 87400: Text Transformations
 **Mondays 4:15pm-6:15pm**  
 **Room 5383**  
+**[Ph.D. Program in English](http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/English)**  
 **[The Graduate Center, CUNY](http://www.gc.cuny.edu)**   
 
 [Dr. Matthew K. Gold](http://mkgold.net)  
