@@ -23,5 +23,5 @@ DH Box
 **Resources**  
 The Programming Historian http://programminghistorian.org/
 
-**Workshops*  *
+**Workshops**  
 http://gcdi.commons.gc.cuny.edu/events/
