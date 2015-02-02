@@ -1,5 +1,4 @@
-## Text Transformations
-**ENGL 87400**  
+## ENGL 87400: Text Transformations
 **Mondays 4:15pm-6:15pm**  
 **Room 5383**  
 **[Graduate Center, CUNY](http://www.gc.cuny.edu)**   
