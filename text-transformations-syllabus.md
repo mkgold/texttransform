@@ -10,6 +10,7 @@ Office Hours: 4108.01, W 4:30pm-6pm and by appointment (contact Kristin Leitterm
 Course Group: http://commons.gc.cuny.edu/groups/text-transformations/  
 Course Blog: http://cuny.is/texttransform  
 Course Hashtag: [#texttransform](https://twitter.com/search?f=realtime&q=texttransform&src=typd)  
+Zotero Group: 
 
 ## Course Description:
 
@@ -43,6 +44,8 @@ The Programming Historian http://programminghistorian.org/
 
 *Workshops*  
 http://gcdi.commons.gc.cuny.edu/events/
+
+**--> Please edit these resources here: https://github.com/mkgold/texttransform/blob/master/tools-resources.md**
 
 
 ## Course Schedule
