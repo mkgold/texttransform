@@ -66,8 +66,8 @@ http://gcdi.commons.gc.cuny.edu/events/
 **Provocations**
 > - Franco Moretti - "The Slaughterhouse of Literature"
 > - Michael Witmore - "Text: A Massively Addressable Object"
-> - Roland Barthes, "The Death of the Author" http://aaaaarg.org/upload/roland-barthes-image-music-text-1.pdf
-> - Michel Foucault, "What is An Author?" http://aaaaarg.org/upload/michel-foucault-what-is-an-author-19691977.pdf
+> - Roland Barthes, "The Death of the Author"  
+> - Michel Foucault, "What is An Author?"   
 > - Jacques Derrida, "The Book to Come" (from Paper Machine)
 > - Matthew G. Kirschenbaum, "The .txtual Condition" 
 > - Steven J. DeRose, David G. Durand, Elli Mylonas, Allen H. Rehear, "What is Text, Really?" http://www.hki.uni-koeln.de/sites/all/files/courses/3226/Renear_ea-1997.pdf
