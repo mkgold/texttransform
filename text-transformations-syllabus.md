@@ -176,7 +176,7 @@ http://gcdi.commons.gc.cuny.edu/events/
 > - Matthew G. Kirschenbaum, with Doug Reside and Alan Liu, “No Round Trip: Two New Primary Sources for Agrippa.” http://agrippa.english.ucsb.edu/kirschenbaum-matthew-g-with-doug-reside-and-alan-liu-no-round-trip-two-new-primary-sources-for-agrippa 
 > - James J. Hodge, “Bibliographic Description of Agrippa (a book of the dead).” http://agrippa.english.ucsb.edu/hodge-james-bibliographic-description-of-agrippa-commissioned-for-the-agrippa-files 
 > - Frederich Kittler, _Gramophone, Film, Typewriter_ (selections)
-> - Jussi Parikka, _What is Media Archaeology?_
+> - Jussi Parikka, _What is Media Archaeology?_ (selections)
 > - Lisa Gitelman, "Near Print and Beyond Paper: Knowing by *.pdf" from _Paper Knowledge_
 
 > Lab: Show and tell: bring in, and be ready to describe, an old piece of equipment or storage media containing information relevant to your work
