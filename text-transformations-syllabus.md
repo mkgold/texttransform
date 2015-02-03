@@ -9,8 +9,8 @@
 mgold@gc.cuny.edu   
 Office Hours: 4108.01, W 4:30pm-6pm and by appointment (contact Kristin Leitterman kristinleitterman@gmail.com for appointments)
 
-Course Group: http://commons.gc.cuny.edu/groups/text-transformations/  
-Course Blog: http://cuny.is/texttransform  
+Private Course Group: http://commons.gc.cuny.edu/groups/text-transformations/  
+Public Course Blog: http://cuny.is/texttransform  
 Course Hashtag: [#texttransform](https://twitter.com/search?f=realtime&q=texttransform&src=typd)  
 Zotero Group: https://www.zotero.org/groups/text_transformations
 
