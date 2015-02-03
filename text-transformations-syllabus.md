@@ -64,19 +64,19 @@ http://gcdi.commons.gc.cuny.edu/events/
 
 **Mon Feb 9**  
 **Provocations**
-> - Franco Moretti - "The Slaughterhouse of Literature"
-> - Michael Witmore - "Text: A Massively Addressable Object"
-> - Roland Barthes, "The Death of the Author"  
-> - Michel Foucault, "What is An Author?"   
-> - Jacques Derrida, "The Book to Come" (from Paper Machine)
-> - Matthew G. Kirschenbaum, "The .txtual Condition" 
+> - Franco Moretti - "The Slaughterhouse of Literature" (PDF)  
+> - Michael Witmore - "Text: A Massively Addressable Object" http://dhdebates.gc.cuny.edu/debates/text/28
+> - Roland Barthes, "The Death of the Author" (PDF)  
+> - Michel Foucault, "What is An Author?" (PDF)  
+> - Jacques Derrida, "The Book to Come" (from Paper Machine) (PDF)  
+> - Matthew G. Kirschenbaum, "The .txtual Condition" (PDF)  
 > - Steven J. DeRose, David G. Durand, Elli Mylonas, Allen H. Rehear, "What is Text, Really?" http://www.hki.uni-koeln.de/sites/all/files/courses/3226/Renear_ea-1997.pdf
 
 > Lab:  
 > Understanding Regular Expressions - http://programminghistorian.org/lessons/understanding-regular-expressions
 
 
-**Mon Feb 16**  
+**Wed Feb 18**  
 **Approaches to Textual Studies (Guest: David Greetham [unconfirmed])**  
 > - WW Gregg, The Rationale of Copy-Text - http://etext.virginia.edu/etcbin/toccer-sb?id=sibv003&images=bsuva/sb/images&data=/texts/english/bibliog/SB&tag=public&part=2&division=div
 > - Fredson Bowers - Some Principles for Scholarly Editions of Nineteenth-Century American Authors http://etext.virginia.edu/etcbin/toccer-sb?id=sibv017&images=bsuva/sb/images&data=/texts/english/bibliog/SB&tag=public&part=17&division=div
@@ -236,29 +236,11 @@ I consulted the following syllabi while creating this one; thank you to their au
 
 --
 
-**List of related Bloggers/Tweeters To Follow (very incomplete, more to come!!!)**  
-matthew jockers  
-david mimno  
-matthew kirschenbaum  
-bethany nowviskie  
-steve ramsay  
-dennis tenen  
-matt wilkens 
-lisa rhody  
-ted underwood  
-matt jockers  
-andrew piper  
-ben schmidt  
-mark sample  
-kari kraus  
-richard jean so  
-sarah werner  
-whitney trettien  
+**Twitter List**  
+https://twitter.com/mkgold/lists/text-transformations
  
 
-
-
-**Other Related Courses This Semester:**  
+**Other Related Courses This Semester**  
 Ted Underwood  
 Ben Schmidt  
 Andrew Gladstone  
