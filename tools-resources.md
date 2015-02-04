@@ -2,8 +2,8 @@ Please put in pull requests to add resources and links
 
 **Tools/Software**  
 Regex  
-[NLTK](http://www.nltk.org/)
-Python  
+[NLTK](http://www.nltk.org/)  
+[Python](https://www.python.org/)  
 MALLET  
 Unix/Linux  
 R  
