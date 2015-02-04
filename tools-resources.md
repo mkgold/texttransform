@@ -1,9 +1,9 @@
+## **Text Transformations Tools**  
+
 Please put in pull requests to add resources and links
 
-**Tools/Software**  
 
-
-## [Regex](http://en.wikipedia.org/wiki/Regular_expression)  
+### Regex
 
 - [The Programming Historian](http://programminghistorian.org/lessons/understanding-regular-expressions) 
 - [Learn and Test RegEx](http://www.regexr.com/)  
@@ -12,11 +12,9 @@ Please put in pull requests to add resources and links
 - [30 Minute Regular Expressions Tutorial](http://www.codeproject.com/Articles/9099/The-Minute-Regex-Tutorial)  
 
 
-## [Python](https://www.python.org/)  
+### Python
 
 A high-level, multipurpose programming language useful for working with plain text and data. Used not only by DH practitioners, but by Google, NASA, and the scientific community.
-
-### Resources
 
 - [Learn Python the Hard Way](http://learnpythonthehardway.org/book/ex0.html)  
 - [A Beginner's Python Tutorial](http://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial)  
@@ -25,15 +23,16 @@ A high-level, multipurpose programming language useful for working with plain te
 - [Python for you and me](http://pymbook.readthedocs.org/en/latest/)  
 - [free-programming-books: Python](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#python)  
 
-## [Natural Language Toolkit (NLTK)](http://www.nltk.org/)  
+
+### Natural Language Toolkit (NLTK)
 
 A Python library for working with natural language. NLTK can tokenize strings (create a list of words from a set of characters), idenfity parts of sppech, and perform operations based on a word's context. 
 
-### Resources
-
 - [NLTK Book](http://www.nltk.org/book/)  
 - [Tutorial: The Natural Language Toolkit](http://www.indiana.edu/~catapult/resources/nltk-tutorial13.pdf)  
-
+  
+<br><br>
+  
 MALLET  
 Unix/Linux  
 R  
