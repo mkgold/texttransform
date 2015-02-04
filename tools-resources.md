@@ -3,7 +3,9 @@
 Please put in pull requests to add resources and links
 
 
-### Regex
+### RegEx
+
+A syntax for search queries that match string patterns. Essentially a sophisticated find method for a document or text set. 
 
 - [The Programming Historian](http://programminghistorian.org/lessons/understanding-regular-expressions) 
 - [Learn and Test RegEx](http://www.regexr.com/)  
