@@ -2,7 +2,7 @@ Please put in pull requests to add resources and links
 
 **Tools/Software**  
 Regex  
-NLTK  
+[NLTK](http://www.nltk.org/)
 Python  
 MALLET  
 Unix/Linux  
