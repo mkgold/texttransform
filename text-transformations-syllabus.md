@@ -52,7 +52,7 @@ The Programming Historian http://programminghistorian.org/
 **Workshops**   
 http://gcdi.commons.gc.cuny.edu/events/
 
-**--> Please edit these resources here: https://github.com/mkgold/texttransform/blob/master/tools-resources.md**
+**--> Please see an updated list of resources, edited by students in the class, here: https://github.com/mkgold/texttransform/blob/master/tools-resources.md**
 
 --  
 
@@ -71,6 +71,7 @@ http://gcdi.commons.gc.cuny.edu/events/
 > - Jacques Derrida, "The Book to Come" (from Paper Machine) (PDF)  
 > - Matthew G. Kirschenbaum, "The .txtual Condition" (PDF)  
 > - Steven J. DeRose, David G. Durand, Elli Mylonas, Allen H. Rehear, "What is Text, Really?" http://www.hki.uni-koeln.de/sites/all/files/courses/3226/Renear_ea-1997.pdf
+> - Recommended: Matthew G. Kirschenbaum, "What is an @uthor?" _Los Angeles Review of Books_ http://lareviewofbooks.org/essay/uthor
 
 > Lab:  
 > Understanding Regular Expressions - http://programminghistorian.org/lessons/understanding-regular-expressions
@@ -81,11 +82,11 @@ http://gcdi.commons.gc.cuny.edu/events/
 > - WW Gregg, The Rationale of Copy-Text - http://etext.virginia.edu/etcbin/toccer-sb?id=sibv003&images=bsuva/sb/images&data=/texts/english/bibliog/SB&tag=public&part=2&division=div
 > - Fredson Bowers - Some Principles for Scholarly Editions of Nineteenth-Century American Authors http://etext.virginia.edu/etcbin/toccer-sb?id=sibv017&images=bsuva/sb/images&data=/texts/english/bibliog/SB&tag=public&part=17&division=div
 > - G. Thomas Tanselle, —, A Rationale of Textual Criticism (1989) (selections)
-> - D. F. McKenzie, Bibliography and the Sociology of Texts (selections)
-> - D. C. Greetham, Textual Scholarship. An Introduction (selections)
-> - Jerome McGann, A Critique of Modern Textual Criticism (selections)
-> - __, The Textual Condition_ - "The Socialization of Texts"
-> - Rob Pope, "Prologue," from Textual Intervention
+> - D. F. McKenzie, _Bibliography and the Sociology of Texts_ (selections)
+> - D. C. Greetham, _Textual Scholarship. An Introduction_ (selections)
+> - Jerome McGann, _A Critique of Modern Textual Criticism_ (selections)
+> - Jerome McGann, The Textual Condition_ - "The Socialization of Texts" (PDF)
+> - Rob Pope, "Prologue," from _Textual Intervention_
 
 > Lab: Dennis Tenen and Grant Wythoff, "Sustainable Authorship in Plain Text using Pandoc and Markdown" http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown
 
@@ -94,7 +95,7 @@ http://gcdi.commons.gc.cuny.edu/events/
 **Hypertext**  
 > - Vannevar Bush, "As We May Think" http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/
 > - Ted Nelson, _Literary Machines_
-> - Jermoe McGann, _The Rationale of Hypertext_ (selections)
+> - Jerome McGann, "The Rationale of Hyper-Text" http://www2.iath.virginia.edu/public/jjm2f/rationale.html
 > - Jay David Bolter, _Writing Spaces_ (selections)
 > - George Landow, _Hypertext 3.0_ (selections)
 > - Giles Deleuze and Felix Guattari, A Thousand Plateaus (selections)
@@ -139,7 +140,7 @@ http://gcdi.commons.gc.cuny.edu/events/
 > - Jerome McGann, _A New Republic of Letters_ (selections)
 > - Amy Earhart, “Can Information Be Unfettered? Race and the New Digital Humanities Canon” http://dhdebates.gc.cuny.edu/debates/text/16
 > - Amanda Gailey, A Case for Heavy Editing: The Example of Race and Children’s Literature in the Gilded Age http://quod.lib.umich.edu/cgi/t/text/idx/e/etlc/9362034.0001.001/1:4?g=dculture;rgn=div1;view=fulltext;xc=1#4.1
-> - John Bryant, The Fluid Text (selections)
+> - John Bryant, _The Fluid Text_ (selections)
 > - Allen H. Renear, "Text Encoding" http://www.digitalhumanities.org/companion/
 > - Julia Flanders, "What is the TEI" ( http://www.wwp.northeastern.edu/outreach/seminars/tei.html ) and "Basic Manuscript and Physical Document Encoding" http://www.wwp.northeastern.edu/outreach/seminars/_current/presentations/manuscript_encoding/basic_manuscript_encoding_00.xhtml
 
@@ -184,6 +185,7 @@ http://gcdi.commons.gc.cuny.edu/events/
 > - Frederich Kittler, _Gramophone, Film, Typewriter_ (selections)
 > - Jussi Parikka, _What is Media Archaeology?_ (selections)
 > - Lisa Gitelman, "Near Print and Beyond Paper: Knowing by *.pdf" from _Paper Knowledge_
+> - Steven E. Jones, "Second Life, Video, Games, and the Social Text" (PDF)
 
 > Lab: Show and tell: bring in, and be ready to describe, an old piece of equipment or storage media containing information relevant to your work
 
@@ -196,7 +198,7 @@ http://gcdi.commons.gc.cuny.edu/events/
 > - Sarah Allison, Ryan Heuser, Matthew Jockers, Franco Moretti, Michael Witmore, "Quantitative Formalism: an Experiment" http://litlab.stanford.edu/?page_id=255
 > - Johanna Drucker, "Humanistic Theory and Digital Scholarship" http://dhdebates.gc.cuny.edu/debates/text/34 
 
-> Lab: TBA
+> Lab: Play the recently revamped Ivanhoe game http://ivanhoe.scholarslab.org/ 
 
 
 **Mon May 4**  
@@ -233,15 +235,17 @@ I consulted the following syllabi while creating this one; thank you to their au
 > - Ben Schmidt http://benschmidt.org/HDA15/?page_id=10  
 > - Ted Underwood “Distant-Reading the Long Nineteenth Century" http://tedunderwood.com/2015/01/16/syllabus-for-a-graduate-seminar/
 
+I appreciated feedback from the following scholars on a draft version of this syllabus:
+> - Matthew Kirschenbaum
+> - Steven E. Jones
+> - Lisa Rhody
+> - Brian Croxall
 
 --
 
 **Twitter List**  
-https://twitter.com/mkgold/lists/text-transformations
+Here is a [twitter list](https://twitter.com/mkgold/lists/text-transformations) of some of the scholars we will be studying this semester.
  
 
-**Other Related Courses This Semester**  
-Ted Underwood  
-Ben Schmidt  
-Andrew Gladstone  
+
 
