@@ -79,7 +79,7 @@ http://gcdi.commons.gc.cuny.edu/events/
 
 **Wed Feb 18**  
 **Approaches to Textual Studies (Guest: David Greetham [unconfirmed])**  
-> - WW Gregg, The Rationale of Copy-Text - http://etext.virginia.edu/etcbin/toccer-sb?id=sibv003&images=bsuva/sb/images&data=/texts/english/bibliog/SB&tag=public&part=2&division=div
+> - W. W. Greg, The Rationale of Copy-Text - http://etext.virginia.edu/etcbin/toccer-sb?id=sibv003&images=bsuva/sb/images&data=/texts/english/bibliog/SB&tag=public&part=2&division=div
 > - Fredson Bowers - Some Principles for Scholarly Editions of Nineteenth-Century American Authors http://etext.virginia.edu/etcbin/toccer-sb?id=sibv017&images=bsuva/sb/images&data=/texts/english/bibliog/SB&tag=public&part=17&division=div
 > - G. Thomas Tanselle, —, A Rationale of Textual Criticism (1989) (selections)
 > - D. F. McKenzie, _Bibliography and the Sociology of Texts_ (selections)
