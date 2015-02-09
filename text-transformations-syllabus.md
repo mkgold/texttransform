@@ -148,7 +148,7 @@ http://gcdi.commons.gc.cuny.edu/events/
 
 
 **Mon Mar 30**  
-**Book History**  
+**Book History (Guest: David Greetham)**  
 > - Robert Darnton, “What is the History of Books?” Daedalus 111 (1982)
 > - Adrian Johns, _The Nature of the Book_ (selections)
 > - From _The Cambridge Companion to the History of the Book_:
