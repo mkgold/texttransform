@@ -82,7 +82,7 @@ http://gcdi.commons.gc.cuny.edu/events/
 > - W. W. Greg, The Rationale of Copy-Text - http://etext.virginia.edu/etcbin/toccer-sb?id=sibv003&images=bsuva/sb/images&data=/texts/english/bibliog/SB&tag=public&part=2&division=div
 > - Fredson Bowers - Some Principles for Scholarly Editions of Nineteenth-Century American Authors http://etext.virginia.edu/etcbin/toccer-sb?id=sibv017&images=bsuva/sb/images&data=/texts/english/bibliog/SB&tag=public&part=17&division=div
 > - G. Thomas Tanselle, —, A Rationale of Textual Criticism (1989) (selections)
-> - D. F. McKenzie, _Bibliography and the Sociology of Texts_ (selections)
+> - D. F. McKenzie, _Bibliography and the Sociology of Texts_ (Read "Bibliography and the Sociology of Texts" pp 7-77, available through the GC Library as a electronic resource)
 > - D. C. Greetham, _Textual Scholarship. An Introduction_ (selections)
 > - Jerome McGann, _A Critique of Modern Textual Criticism_ (selections)
 > - Jerome McGann, The Textual Condition_ - "The Socialization of Texts" (PDF)
