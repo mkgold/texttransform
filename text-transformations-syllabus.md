@@ -191,7 +191,10 @@ http://gcdi.commons.gc.cuny.edu/events/
 
 
 **Mon Apr 27**  
-**12 - Perspective and Dimensionality**  
+**12 - No Class
+
+**Mon May 4**  
+**13 - Perspective and Dimensionality**  
 > - Edwin A. Abbot, _Flatland_
 > - Jerome McGann, "Marking Texts of Many Dimensions" http://www.digitalhumanities.org/companion/ 
 > - David Hoover, "Quantitative Analysis and Literary Studies" http://www.digitalhumanities.org/companionDLS/ 
@@ -201,8 +204,8 @@ http://gcdi.commons.gc.cuny.edu/events/
 > Lab: Play the recently revamped Ivanhoe game http://ivanhoe.scholarslab.org/ 
 
 
-**Mon May 4**  
-**13 - Social Texts, Social Writing, Social Reading**  
+**Mon May 11**  
+**14 - Social Texts, Social Writing, Social Reading**  
 > - Kathleen Fitzpatrick, "Networking the Field" ( http://www.plannedobsolescence.net/networking-the-field/ )
 > - Andrew Piper, "Sharing," from _Book Was Here_
 > - Andy Stauffer, "The Nineteenth-Century Archive in the Digital Age"
@@ -216,10 +219,6 @@ http://gcdi.commons.gc.cuny.edu/events/
 > - Medium - http://medium.com
 
 > Lab: TBA
-
-
-**Mon May 11**  
-**14 - student presentations**  
 
 
 **Mon May 18**  
@@ -244,7 +243,8 @@ I appreciated feedback from the following scholars on a draft version of this sy
 --
 
 **Twitter List**  
-Here is a [twitter list](https://twitter.com/mkgold/lists/text-transformations) of some of the scholars we will be studying this semester.
+He
+re is a [twitter list](https://twitter.com/mkgold/lists/text-transformations) of some of the scholars we will be studying this semester.
  
 
 
