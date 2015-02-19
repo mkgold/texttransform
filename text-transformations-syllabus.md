@@ -191,7 +191,7 @@ http://gcdi.commons.gc.cuny.edu/events/
 
 
 **Mon Apr 27**  
-**12 - No Class
+**12 - No Class**
 
 **Mon May 4**  
 **13 - Perspective and Dimensionality**  
