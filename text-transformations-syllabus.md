@@ -101,7 +101,7 @@ http://gcdi.commons.gc.cuny.edu/events/
 > - Giles Deleuze and Felix Guattari, A Thousand Plateaus (selections)
 
 > Lab: Mark up, by hand, a 500-word text using HTML and CSS
-
+> HTML tutorial: http://www.w3.org/MarkUp/Guide/ ; CSS tutorial: http://www.csstutorial.net/css-intro/introductioncss-part1.php ; Also check out Lynda.com, available through the library
 
 **Mon Mar 2**  
 **Distant Reading 1**  
