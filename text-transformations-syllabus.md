@@ -136,7 +136,8 @@ http://gcdi.commons.gc.cuny.edu/events/
 
 
 **Mon Mar 23**  
-**Editions**  
+**Editions** (Guest: Dennis Tenen)
+
 > - Jerome McGann, _A New Republic of Letters_ (selections)
 > - Amy Earhart, “Can Information Be Unfettered? Race and the New Digital Humanities Canon” http://dhdebates.gc.cuny.edu/debates/text/16
 > - Amanda Gailey, A Case for Heavy Editing: The Example of Race and Children’s Literature in the Gilded Age http://quod.lib.umich.edu/cgi/t/text/idx/e/etlc/9362034.0001.001/1:4?g=dculture;rgn=div1;view=fulltext;xc=1#4.1
