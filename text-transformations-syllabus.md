@@ -105,9 +105,9 @@ http://gcdi.commons.gc.cuny.edu/events/
 
 **Mon Mar 2**  
 **Distant Reading 1**  
-> - Franco Moretti - Graphs, Maps, Trees (selections)
-> - Jean-Baptiste Michel, et al., "Quantitative Analysis of Culture Using Millions of Digitized Books"
-> - Daniel Rosenberg, "Data Before the Fact" 
+> - Franco Moretti - Graphs, Maps, Trees (Read Maps, Trees -- PDF)
+> - Jean-Baptiste Michel, et al., "Quantitative Analysis of Culture Using Millions of Digitized Books" (PDF)
+> - Daniel Rosenberg, "Data Before the Fact" (PDF)
 > - Goldstone and Underwood “The Quiet Transformations of Literary Studies" https://www.ideals.illinois.edu/bitstream/handle/2142/49323/QuietTransformations.pdf?sequence=2
 > - Lisa M. Rhody, "Topic Modeling and Figurative Language" http://journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody/
 
