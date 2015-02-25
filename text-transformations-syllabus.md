@@ -136,7 +136,8 @@ http://gcdi.commons.gc.cuny.edu/events/
 
 
 **Mon Mar 23**  
-**Editions** (Guest: Dennis Tenen)
+**Editions (Guest: Dennis Tenen)**
+≈ç
 
 > - Jerome McGann, _A New Republic of Letters_ (selections)
 > - Amy Earhart, “Can Information Be Unfettered? Race and the New Digital Humanities Canon” http://dhdebates.gc.cuny.edu/debates/text/16
