@@ -168,7 +168,7 @@ http://gcdi.commons.gc.cuny.edu/events/
 > -- Paul Duguid, "Material Matters: Aspects of the Past and the Futurology of the Book"
 
 > Lab: Class visit to a local archive (TBA)
-
+> - **Final Project Abstract/Proposal Due** (one page or less)
 
 **Mon Apr 6 - Spring Break**
 
