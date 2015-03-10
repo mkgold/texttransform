@@ -134,11 +134,11 @@ http://gcdi.commons.gc.cuny.edu/events/
 
 
 > Lab: Make a twitter bot or markov chain generator
-> Resources: Darius Kazemi, "How to make a Twitter bot" http://tinysubversions.com/2013/09/how-to-make-a-twitter-bot/index.html
-> Patrick Rodriguez, 
+> - Resources: Darius Kazemi, "How to make a Twitter bot" http://tinysubversions.com/2013/09/how-to-make-a-twitter-bot/index.html
+> - Patrick Rodriguez, 
 "Making Twitterbots with Google Apps Script (Part 1)" http://thelightaesthetic.com/making-twitterbots-with-google-apps-script-part-1/
-> Rob Dubbin, "The Rise of Twitter Bots" http://www.newyorker.com/tech/elements/the-rise-of-twitter-bots
-> Mary C. Long, "How to Make a Twitter Bot in Five Minutes" http://www.adweek.com/socialtimes/twitter-bot/479038?red=at
+> - Rob Dubbin, "The Rise of Twitter Bots" http://www.newyorker.com/tech/elements/the-rise-of-twitter-bots
+> - Mary C. Long, "How to Make a Twitter Bot in Five Minutes" http://www.adweek.com/socialtimes/twitter-bot/479038?red=at
 
 **Mon Mar 23**  
 **Editions (Guest: Dennis Tenen)**
