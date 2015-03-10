@@ -118,7 +118,7 @@ http://gcdi.commons.gc.cuny.edu/events/
 **Distant Reading 2**  
 > - Matthew Jockers, _Macroanalysis_ (selections)
 > - Matthew Jockers, _Text Analysis With R for Students of Literature_ (selections)
-> - Matthew Jockers/Annie Swafford blog post exchnage about Syuzhet
+> - Matthew Jockers/Annie Swafford blog post exchange about Syuzhet
 
 > Lab: Exercises from Jockers
 
