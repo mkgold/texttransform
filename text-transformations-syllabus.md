@@ -139,6 +139,7 @@ http://gcdi.commons.gc.cuny.edu/events/
 "Making Twitterbots with Google Apps Script (Part 1)" http://thelightaesthetic.com/making-twitterbots-with-google-apps-script-part-1/
 > - Rob Dubbin, "The Rise of Twitter Bots" http://www.newyorker.com/tech/elements/the-rise-of-twitter-bots
 > - Mary C. Long, "How to Make a Twitter Bot in Five Minutes" http://www.adweek.com/socialtimes/twitter-bot/479038?red=at
+> - **Write a blog post about your bot experiments**
 
 **Mon Mar 23**  
 **Editions (Guest: Dennis Tenen)**
