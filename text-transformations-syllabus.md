@@ -118,22 +118,27 @@ http://gcdi.commons.gc.cuny.edu/events/
 **Distant Reading 2**  
 > - Matthew Jockers, _Macroanalysis_ (selections)
 > - Matthew Jockers, _Text Analysis With R for Students of Literature_ (selections)
+> - Matthew Jockers/Annie Swafford blog post exchnage about Syuzhet
 
 > Lab: Exercises from Jockers
 
 
 **Mon Mar 16**    
 **Deformance**  
-> - Samuels, Lisa, and Jerome McGann. “Deformance and Interpretation.” _New Literary History_ 30.1 (1999) : 25–56. Print.
-> - Stephen Ramsay, _Reading Machines_
+> - Samuels, Lisa, and Jerome McGann. “Deformance and Interpretation.” _New Literary History_ 30.1 (1999) : 25–56. (PDF)
+> - Stephen Ramsay, _Reading Machines_ (PDF)
 > - Stephen Ramsay, “The Hermeneutics of Screwing Around” http://quod.lib.umich.edu/d/dh/12544152.0001.001/1:5/--pastplay-teaching-and-learning-history-with-technology?g=dculture;rgn=div1;view=fulltext;xc=1#5.1 
 > - Mark Sample, "Notes Towards a Deformed Humanities" http://www.samplereality.com/2012/05/02/notes-towards-a-deformed-humanities/
 > - Mark Sample, "A protest bot is a bot so specific you can’t mistake it for bullshit: A Call for Bots of Conviction" https://medium.com/@samplereality/a-protest-bot-is-a-bot-so-specific-you-cant-mistake-it-for-bullshit-90fe10b7fbaa
-> - Johanna Drucker, _SpecLab_ (selections)
-> - Rob Pope, _Textual Intervention_ (selections)
+> - Johanna Drucker, _SpecLab_ (PDF)
+
 
 > Lab: Make a twitter bot or markov chain generator
-
+> Resources: Darius Kazemi, "How to make a Twitter bot" http://tinysubversions.com/2013/09/how-to-make-a-twitter-bot/index.html
+> Patrick Rodriguez, 
+"Making Twitterbots with Google Apps Script (Part 1)" http://thelightaesthetic.com/making-twitterbots-with-google-apps-script-part-1/
+> Rob Dubbin, "The Rise of Twitter Bots" http://www.newyorker.com/tech/elements/the-rise-of-twitter-bots
+> Mary C. Long, "How to Make a Twitter Bot in Five Minutes" http://www.adweek.com/socialtimes/twitter-bot/479038?red=at
 
 **Mon Mar 23**  
 **Editions (Guest: Dennis Tenen)**
