@@ -156,9 +156,9 @@ http://gcdi.commons.gc.cuny.edu/events/
 
 **Mon Mar 30**  
 **Book History (Guest: David Greetham)**  
-> - Robert Darnton, “What is the History of Books?” Daedalus 111 (1982)
-> - Adrian Johns, _The Nature of the Book_ (selections)
-> - From _The Cambridge Companion to the History of the Book_:
+> - Robert Darnton, “What is the History of Books?” Daedalus 111 (1982) (PDF)
+> - Adrian Johns, _The Nature of the Book_ (Introduction and Chapter Two) (GC Library Electronic Resource) 
+> - From _The Cambridge Companion to the History of the Book_: (PDF)
 > -- Leslie Howsam, "The Study of Book History"
 > -- Karen Attar, "Books in the library"
 > -- Sydney Shep, "Books in Global Perspectives"
@@ -175,7 +175,7 @@ http://gcdi.commons.gc.cuny.edu/events/
 
 **Mon Apr 13**  
 **Visualizing Textual Data**  
-> - Edward Tufte _Envisioning Information_
+> - Edward Tufte _Envisioning Information_ (PDF)
 > - Lev Manovich, "What is Visualization?" - http://manovich.net/content/04-projects/062-what-is-visualization/61_article_2010.pdf
 > - Johanna Drucker, "Humanities Approaches to Graphical Display" http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html
 > - Ben Fry, the preservation of favoured traces http://benfry.com/traces/
@@ -189,9 +189,8 @@ http://gcdi.commons.gc.cuny.edu/events/
 > - Agrippa Files Website http://agrippa.english.ucsb.edu
 > - Matthew G. Kirschenbaum, with Doug Reside and Alan Liu, “No Round Trip: Two New Primary Sources for Agrippa.” http://agrippa.english.ucsb.edu/kirschenbaum-matthew-g-with-doug-reside-and-alan-liu-no-round-trip-two-new-primary-sources-for-agrippa 
 > - James J. Hodge, “Bibliographic Description of Agrippa (a book of the dead).” http://agrippa.english.ucsb.edu/hodge-james-bibliographic-description-of-agrippa-commissioned-for-the-agrippa-files 
-> - Frederich Kittler, _Gramophone, Film, Typewriter_ (selections)
-> - Jussi Parikka, _What is Media Archaeology?_ (selections)
-> - Lisa Gitelman, "Near Print and Beyond Paper: Knowing by *.pdf" from _Paper Knowledge_
+> - Jussi Parikka, _What is Media Archaeology?_ (PDF)
+> - Lisa Gitelman, "Near Print and Beyond Paper: Knowing by *.pdf" from _Paper Knowledge_ (PDF)
 > - Steven E. Jones, "Second Life, Video, Games, and the Social Text" (PDF)
 
 > Lab: Show and tell: bring in, and be ready to describe, an old piece of equipment or storage media containing information relevant to your work
