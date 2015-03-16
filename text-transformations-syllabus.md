@@ -204,7 +204,7 @@ http://gcdi.commons.gc.cuny.edu/events/
 
 **Mon May 4**  
 **13 - Perspective and Dimensionality**  
-> - Edwin A. Abbot, _Flatland_
+> - Edwin A. Abbot, _Flatland_ (please buy)
 > - Jerome McGann, "Marking Texts of Many Dimensions" http://www.digitalhumanities.org/companion/ 
 > - David Hoover, "Quantitative Analysis and Literary Studies" http://www.digitalhumanities.org/companionDLS/ 
 > - Sarah Allison, Ryan Heuser, Matthew Jockers, Franco Moretti, Michael Witmore, "Quantitative Formalism: an Experiment" http://litlab.stanford.edu/?page_id=255
@@ -215,9 +215,9 @@ http://gcdi.commons.gc.cuny.edu/events/
 
 **Mon May 11**  
 **14 - Social Texts, Social Writing, Social Reading**  
-> - Kathleen Fitzpatrick, "Networking the Field" ( http://www.plannedobsolescence.net/networking-the-field/ )
-> - Andrew Piper, "Sharing," from _Book Was Here_
-> - Andy Stauffer, "The Nineteenth-Century Archive in the Digital Age"
+> - Kathleen Fitzpatrick, "Networking the Field" http://www.plannedobsolescence.net/networking-the-field/ 
+> - Andrew Piper, "Sharing," from _Book Was Here_ (PDF)
+> - Andy Stauffer, "The Nineteenth-Century Archive in the Digital Age" (PDF)
 > - Ray Siemens, Meagan Timney, Cara Leitch, Corina Koolen, and Alex Garnett, with the ETCL, INKE, and PKP Research Groups, "Toward Modeling the Social Edition: An Approach to Understanding the Electronic Scholarly Edition in the Context of New and Emerging Social Media" - http://web.uvic.ca/~siemens/pub/2012-SocialEdition-LLCFinal.pdf
 
 > Explore Projects:
