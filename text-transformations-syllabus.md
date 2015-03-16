@@ -144,10 +144,10 @@ http://gcdi.commons.gc.cuny.edu/events/
 **Mon Mar 23**  
 **Editions (Guest: Dennis Tenen)**
 
-> - Jerome McGann, _A New Republic of Letters_ (selections)
+> - Jerome McGann, _A New Republic of Letters_ (PDF)
 > - Amy Earhart, “Can Information Be Unfettered? Race and the New Digital Humanities Canon” http://dhdebates.gc.cuny.edu/debates/text/16
 > - Amanda Gailey, A Case for Heavy Editing: The Example of Race and Children’s Literature in the Gilded Age http://quod.lib.umich.edu/cgi/t/text/idx/e/etlc/9362034.0001.001/1:4?g=dculture;rgn=div1;view=fulltext;xc=1#4.1
-> - John Bryant, _The Fluid Text_ (selections)
+> - John Bryant, _The Fluid Text_ (PDF)
 > - Allen H. Renear, "Text Encoding" http://www.digitalhumanities.org/companion/
 > - Julia Flanders, "What is the TEI" ( http://www.wwp.northeastern.edu/outreach/seminars/tei.html ) and "Basic Manuscript and Physical Document Encoding" http://www.wwp.northeastern.edu/outreach/seminars/_current/presentations/manuscript_encoding/basic_manuscript_encoding_00.xhtml
 
@@ -167,7 +167,7 @@ http://gcdi.commons.gc.cuny.edu/events/
 >   * James Raven, "The Industrial Revolution of the Book"
 >   * Jon Bath and Scott Schofield, "The Digital Book"
 
-> Lab: Class visit to a local archive (TBA)
+> Lab: Visit to a local archive
 > - **Final Project Abstract/Proposal Due** (one page or less)
 
 **Mon Apr 6 - Spring Break**
@@ -179,7 +179,10 @@ http://gcdi.commons.gc.cuny.edu/events/
 > - Lev Manovich, "What is Visualization?" - http://manovich.net/content/04-projects/062-what-is-visualization/61_article_2010.pdf
 > - Johanna Drucker, "Humanities Approaches to Graphical Display" http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html
 > - Ben Fry, the preservation of favoured traces http://benfry.com/traces/
-> - Google N-Gram Viewer
+> - Google N-Gram Viewer - https://books.google.com/ngrams
+> - Bookworm - http://bookworm.culturomics.org/
+> - Flowing data - http://flowingdata.com/
+> - Visual Complexity - http://www.visualcomplexity.com/vc/
 
 > Lab: Create a data visualization using Gephi, D3, or another tool
 
