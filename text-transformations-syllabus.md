@@ -158,7 +158,7 @@ http://gcdi.commons.gc.cuny.edu/events/
 **Book History (Guest: David Greetham)**  
 > - Robert Darnton, “What is the History of Books?” Daedalus 111 (1982) (PDF)
 > - Paul Duguid, "Material Matters: Aspects of the Past and the Futurology of the Book" http://people.ischool.berkeley.edu/~duguid/SLOFI/Material_Matters.htm 
-> - Adrian Johns, _The Nature of the Book_ (Introduction and Chapter Two) (GC Library Electronic Resource) 
+> - Adrian Johns, _The Nature of the Book_ (Introduction and Chapter Two) (GC Library Electronic Resource) https://libsearch.cuny.edu/F/69XI87E93M21BHXHLQ7CU8HBCB1MFD22UM4N7DMQYS2LXELBJV-17038?func=item-global&doc_library=CUN01&doc_number=006902571&year=&volume=&sub_library=AL001 
 > - From _The Cambridge Companion to the History of the Book_: (PDF)
 >   * Leslie Howsam, "The Study of Book History"
 >   * Karen Attar, "Books in the library"
