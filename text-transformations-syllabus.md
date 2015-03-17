@@ -195,6 +195,7 @@ http://gcdi.commons.gc.cuny.edu/events/
 > - Jussi Parikka, _What is Media Archaeology?_ (PDF)
 > - Lisa Gitelman, "Near Print and Beyond Paper: Knowing by *.pdf" from _Paper Knowledge_ (PDF)
 > - Steven E. Jones, "Second Life, Video, Games, and the Social Text" (PDF)
+> - Lori Emerson, _Reading Writing Interfaces_ (PDF)
 
 > Lab: Show and tell: bring in, and be ready to describe, an old piece of equipment or storage media containing information relevant to your work
 
