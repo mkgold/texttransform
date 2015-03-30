@@ -176,6 +176,7 @@ http://gcdi.commons.gc.cuny.edu/events/
 **Mon Apr 13**  
 **Visualizing Textual Data**  
 > - Edward Tufte _Envisioning Information_ (PDF)
+> - Edward Tufte _The Visual Display of Quantitative Information_ (PDF)
 > - Lev Manovich, "What is Visualization?" - http://manovich.net/content/04-projects/062-what-is-visualization/61_article_2010.pdf
 > - Johanna Drucker, "Humanities Approaches to Graphical Display" http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html
 > - Ben Fry, the preservation of favoured traces http://benfry.com/traces/
